@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Paleta base -->
+    <color name="primary">#007AFF</color> <!-- Azul para botones principales -->
+    <color name="background">#F2F2F7</color> <!-- Gris muy claro para fondo -->
+    <color name="surface">#FFFFFF</color> <!-- Blanco para tarjetas/contenedores -->
+
+    <!-- Texto -->
+    <color name="text_primary">#1C1C1E</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="text_hint">#AEAEB2</color>
+
+    <!-- Acentos y estados -->
+    <color name="accent_blue">#5AC8FA</color>
+    <color name="accent_purple">#5856D6</color>
+    <color name="urgent_red">#FF3B30</color>
+    <color name="success_green">#34C759</color>
+
+    <!-- Colores de los wireframes -->
+    <color name="soft_gray">#E5E5EA</color>
+    <color name="card_shadow">#D1D1D6</color>
+
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 </resources>

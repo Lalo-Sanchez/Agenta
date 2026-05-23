@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Agenta</string>
+    <string name="welcome_omar">Bienvenido Omar</string>
+    <string name="welcome_agenta">Bienvenido a Agenta</string>
+    <string name="user_hint">Usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_btn">Iniciar sesión</string>
+    <string name="forgot_password">Olvide Mi Contraseña</string>
+    <string name="email_hint">Correo</string>
+    <string name="register_btn">Ingresar</string>
+    <string name="new_task_title">Nueva Tarea</string>
+    <string name="materia_hint">Materia</string>
+    <string name="tarea_hint">Tarea</string>
+    <string name="urgent_label">Urgente:</string>
+    <string name="project_label">Proyecto:</string>
+    <string name="save_btn">Guardar</string>
+    <string name="logout_btn">Cerrar Sesion</string>
+    <string name="today_tab">Hoy</string>
+    <string name="tomorrow_tab">Mañana</string>
+
 </resources>
